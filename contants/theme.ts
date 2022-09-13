@@ -1,0 +1,1 @@
+export const GENERAL_SVG_PADDING = 20
